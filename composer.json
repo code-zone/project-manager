@@ -1,0 +1,16 @@
+{
+    "name": "weezqyd/project-manager",
+    "description": "A project management sytem for freelancers",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "weezqyd",
+            "email": "wizqydy@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "stripe/stripe-php":"3.22"
+    }
+}
